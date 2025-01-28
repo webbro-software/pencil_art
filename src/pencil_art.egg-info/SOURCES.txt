@@ -1,3 +1,4 @@
+LICENCE
 README.md
 setup.py
 src/pencil_art/__init__.py
