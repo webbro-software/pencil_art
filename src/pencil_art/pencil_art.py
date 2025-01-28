@@ -1,6 +1,6 @@
 import cv2
 
-def image_to_sketch(input_image_path, output_image_path):
+def pencil_art(input_image_path, output_image_path):
     image = cv2.imread(input_image_path)
 
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
