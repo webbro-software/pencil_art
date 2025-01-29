@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pencil_art
-Version: 0.1.1
+Version: 0.1.2
 Summary: Pencil Art Generator from Images
 Home-page: https://github.com/webbro-software/pencil-art
 Author: Usmonov Shoxruxmirzo
@@ -10,7 +10,7 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
-License-File: LICENCE
+License-File: LICENSE
 Requires-Dist: opencv-python
 
 # Pencil Art
