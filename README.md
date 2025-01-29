@@ -77,3 +77,7 @@ If you'd like to contribute to the development of the `pencil_art` package, feel
 ## License
 
 This package is licensed under the [MIT License](./LICENCE).
+
+---
+
+[![PyPI Downloads](https://static.pepy.tech/badge/pencil-art)](https://pepy.tech/projects/pencil-art)
