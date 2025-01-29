@@ -2,7 +2,7 @@ LICENSE
 README.md
 setup.py
 src/pencil_art/__init__.py
-src/pencil_art/pencil_art.py
+src/pencil_art/core.py
 src/pencil_art.egg-info/PKG-INFO
 src/pencil_art.egg-info/SOURCES.txt
 src/pencil_art.egg-info/dependency_links.txt
