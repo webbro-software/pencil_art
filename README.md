@@ -50,6 +50,11 @@ pencil_art(input_image, output_image)
 
 This will read the image located at `input_image`, convert it to a pencil sketch, and save it as `output_image`.
 
+## Demo
+![image](https://github.com/user-attachments/assets/9c1398f4-482f-4918-8924-c4b06ee1c0dd)
+
+![sketch](https://github.com/user-attachments/assets/78884c60-2cf1-4f83-b6e1-534d006aa29a)
+
 ## How It Works
 
 The `pencil_art` function performs the following steps to generate the pencil sketch effect:
